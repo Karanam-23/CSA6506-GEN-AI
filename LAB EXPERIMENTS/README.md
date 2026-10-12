@@ -1,0 +1,3 @@
+LAB EXPERIMENTS OF CSA6506 GENERATIVE AI
+````````````````````````````````````````
+K. SAI DATTA 1092472016
